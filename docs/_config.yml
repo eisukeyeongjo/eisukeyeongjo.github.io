@@ -31,7 +31,7 @@ twitter_username: eisyos
 github_username:  eisyos
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
