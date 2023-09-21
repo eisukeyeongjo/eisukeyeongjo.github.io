@@ -3,6 +3,8 @@ entries:
     entries:
       - title: GitHub 
         url: https://github.com/eisyos
+      - title: X
+        url: https://twitter.com/_eisyos
 
   - title: all posts
     post_list:
