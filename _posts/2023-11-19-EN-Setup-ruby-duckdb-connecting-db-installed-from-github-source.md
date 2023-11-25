@@ -1,5 +1,3 @@
-# 
-
 ## Setup duckdb from git source
 
 Build a DB while referring to [the documentation](https://duckdb.org/docs/installation/?version=latest&environment=cli&installer=source)
