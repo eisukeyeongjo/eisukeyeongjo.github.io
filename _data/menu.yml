@@ -3,8 +3,12 @@ entries:
     entries:
       - title: GitHub 
         url: https://github.com/eisyos
+      - title: Credly
+        url: https://www.credly.com/users/eisyos
       - title: X
         url: https://twitter.com/_eisyos
+      - title: YOUTRUST
+        url: https://youtrust.jp/users/eisyos
 
   - title: all posts
     post_list:
