@@ -1,2 +1,2 @@
-# GitHub Pages for eisyos 
+# GitHub Pages for eisukeyeongjo
 

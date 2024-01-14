@@ -1,8 +1,8 @@
 title: "榮的技術中心"
-email: "life.is.not.easy@eisyos.com"
-domain: "eisyos.com"
+email: "life.is.not.easy@eisukeyeongjo.com"
+domain: "eisukeyeongjo.com"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://eisyos.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://eisukeyeongjo.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 remote_theme: riggraz/no-style-please
 plugins:
