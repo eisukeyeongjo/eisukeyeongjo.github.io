@@ -3,8 +3,12 @@ entries:
     entries:
       - title: GitHub 
         url: https://github.com/eisukeyeongjo
+      - title: X
+        url: https://twitter.com/buono_aglioolio
       - title: Credly
         url: https://www.credly.com/users/eisukeyeongjo
+      - title: Linux Professional Institute
+        url: https://cs.lpi.org/caf/Xamman/certification/verify/LPI000431130/dtwmw38rhd
 
   - title: all posts
     post_list:
