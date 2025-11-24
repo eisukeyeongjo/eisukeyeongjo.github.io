@@ -1,0 +1,33 @@
+- key: title
+  value: '榮的技術中心'
+  url: https://eisukeyeongjo.com
+- key: greetings
+  value:
+  - '你好'
+  - '안녕하세요'
+  - 'Xin chào'
+  - 'नमस्ते'
+  - 'こんにちは'
+  typed: true
+- key: about_me
+  value: 'eisukeyeongjo'
+  url: https://example.com
+- key: contact
+  value:
+  - key: email
+    value: xinchao@eisukeyeongjo.com
+    url: mailto:xinchao@eisukeyeongjo.com
+- key: links
+  value:
+  - value: GitHub
+    url: https://github.com/eisukeyeongjo
+  - value: Credly
+    url: https://www.credly.com/users/eisukeyeongjo
+  - value: Zenn
+    url: https://zenn.dev/eisukeyeongjo
+  - value: note
+    url: https://note.com/eisukeyeongjo
+  - value: LinkedIn
+    url: https://www.linkedin.com/in/eisukeyeongjo
+  - value: Wantedly
+    url: https://www.wantedly.com/id/eisukeyeongjo
