@@ -19,7 +19,17 @@ group :jekyll_plugins do
   gem "github-pages"
   # https://github.com/riggraz/no-style-please
   # gem "no-style-please"
+  # https://github.com/digitalmalayali/linkhub-jekyll-theme
+  # gem "linkhub-jekyll-theme"
+  # https://github.com/piazzai/hacked-jekyll
+  gem "hacked-jekyll"
+
+  # Liquid syntax error (line 10): Unknown tag 'seo' (Liquid::SyntaxError)
+  gem "jekyll-seo-tag"
 end
+
+# cannot load such file -- csv (LoadError)
+gem "csv"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
