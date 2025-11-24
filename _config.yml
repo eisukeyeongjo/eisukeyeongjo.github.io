@@ -1,1 +1,2 @@
-theme: hacked-jekyll
+# theme: hacked-jekyll
+remote_theme: piazzai/hacked-jekyll
